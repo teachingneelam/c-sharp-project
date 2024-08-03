@@ -1,0 +1,7 @@
+C:\Users\neela\source\repos\c sharp calculator\c sharp calculator\bin\Debug\c sharp calculator.exe.config
+C:\Users\neela\source\repos\c sharp calculator\c sharp calculator\bin\Debug\c sharp calculator.exe
+C:\Users\neela\source\repos\c sharp calculator\c sharp calculator\bin\Debug\c sharp calculator.pdb
+C:\Users\neela\source\repos\c sharp calculator\c sharp calculator\obj\Debug\c sharp calculator.csproj.AssemblyReference.cache
+C:\Users\neela\source\repos\c sharp calculator\c sharp calculator\obj\Debug\c sharp calculator.csproj.CoreCompileInputs.cache
+C:\Users\neela\source\repos\c sharp calculator\c sharp calculator\obj\Debug\c sharp calculator.exe
+C:\Users\neela\source\repos\c sharp calculator\c sharp calculator\obj\Debug\c sharp calculator.pdb
